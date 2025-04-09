@@ -172,3 +172,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Environment variables
+.env
+
+# API keys and credentials
+.utils/*.json
+
+# Dataset files
+.utils/*.csv
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints 
+.ipynb_checkpoints/
+
